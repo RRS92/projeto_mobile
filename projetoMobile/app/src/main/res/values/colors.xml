@@ -1,0 +1,13 @@
+<resources>
+    <color name="primary">#FF5252</color>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="accent">#FFAB40</color>
+    <color name="background_light">#FFF8F2</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#5D4037</color>
+    <color name="text_secondary">#8D6E63</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- REMOVA esta linha -->
+    <!-- <color name="selector_nav_item">@drawable/nav_item_color</color> -->
+</resources>

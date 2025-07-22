@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_random"
+        android:icon="@drawable/ic_random"
+        android:title="Random" />
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search" />
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Início" />
+    <item
+        android:id="@+id/nav_filter_letter"
+        android:icon="@drawable/ic_letter"
+        android:title="By Letter" />
+    <item
+        android:id="@+id/nav_filter_ingredient"
+        android:icon="@drawable/ic_ingredient"
+        android:title="By Ingredient" />
+</menu>
